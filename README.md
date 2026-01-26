@@ -60,4 +60,4 @@ Example expected results, using command-line utils that perform the same functio
 
 ### Task 4: Count code/whitespace/comments for given languages in directory tree
 
-Specifically count code, whitespace, and comments for specified languages only in given directory tree.
+Count code, whitespace, and comments for specified languages only in given directory tree.
