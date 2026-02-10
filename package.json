@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "NodeJS coding test",
   "main": "fileCounter.js",
-  "repository": "git@bitbucket.org:ooyalaflex/coding-test-nodejs.git",
+  "repository": "git@github.com:msepler-dlt/coding-test-nodejs.git",
   "author": "Oliver Lockwood <olockwood@dalet.com>",
   "license": "Only to be shared by Dalet employees for interview candidates.  Onward sharing or keeping a copy for private use beyond the interview process is prohibited.",
   "private": true,

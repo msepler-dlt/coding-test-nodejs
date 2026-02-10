@@ -7,6 +7,12 @@ The exercise is timeboxed; assessment is based not on completing the test in tim
 when pairing.  Consider this as if each requirement below was a separate ticketed business requirement, and you were
 implementing production-quality code accordingly.
 
+Install with the following:
+
+```
+npm install
+```
+
 
 ### Task 1: Count files in given directory tree
 
