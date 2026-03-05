@@ -29,7 +29,7 @@ Example expected results, using command-line utils that perform the same functio
  12
 
  $ find resources/sample-app -type f | wc -l
- 11 or 2359, depending on if you've yet run `yarn install` on the package.json files within
+ 11 or 2359, depending on if you've yet run `npm install` on the package.json files within
 ```
 
 
@@ -47,7 +47,7 @@ Example expected results, using command-line utils that perform the same functio
  16
 
  $ find resources/sample-app -type f -exec cat {} + | wc -l
- 643 or 439577, depending on if you've yet run `yarn install` on the package.json files within
+ 643 or 439577, depending on if you've yet run `npm install` on the package.json files within
  ```
 
 
