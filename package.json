@@ -9,7 +9,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "node --unhandled-rejections=strict ./node_modules/.bin/mocha --config test/.mocharc.json"
+    "test": "mocha"
   },
   "devDependencies": {
     "mocha": "10.2.0"
